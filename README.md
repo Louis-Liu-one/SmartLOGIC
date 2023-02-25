@@ -1,4 +1,4 @@
-# Project SmartLOGIC: Create and run logic circuits on your computer
+# Project SmartLOGIC 1.3a: Create and run logic circuits on your computer
 Copyright (c) SmartLOGIC(v1.3a) 2023, Liu One  All rights reserved.
 This project's version is 1.3a now.
 
